@@ -1,0 +1,13 @@
+asset_dir = "assets/production"
+exclude_assets = []
+write_dir = "src/shared"
+
+[creator]
+type = "group"
+id = 3618085
+
+[codegen]
+output_name = "assets"
+typescript = true
+style = "nested"
+strip_extension = false
